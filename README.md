@@ -1,0 +1,1 @@
+# DBMS_miniProject_FarmManagementSystem
